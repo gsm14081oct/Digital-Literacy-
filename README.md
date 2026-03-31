@@ -1,8 +1,8 @@
 # Digital Literacy Portfolio
 
 **Name:** Girija Sankar Mahapatra  
-**Registration Number:** 25bmr10012  
-**Branch:** Mechanical Engineering (Specilization in Ai and Robotics)
+**Registration Number:** 25BMR10012  
+**Branch:** Mechanical Engineering (Specilization in AI and Robotics)
 **Year:** 1st Year  
 
 ## Project Overview
@@ -29,4 +29,4 @@ I prepared a case study on phishing and made a prevention checklist.
 https://docs.google.com/forms/d/e/1FAIpQLSchYcNd_ExQotGRWVdYC6wD8emt4wwvu21deVZBZIDX37UgBA/viewform?usp=publish-editor
 
 ## Repository Link
-(https://github.com/Swarit-dev-st/DIGITAL-LITERACY)
+https://github.com/gsm14081oct/Digital-Literacy-
