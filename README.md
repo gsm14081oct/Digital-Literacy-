@@ -3,6 +3,7 @@
 **Name:** Girija Sankar Mahapatra  
 **Registration Number:** 25BMR10012  
 **Branch:** Mechanical Engineering (Specilization in AI and Robotics)
+
 **Year:** 1st Year  
 
 ## Project Overview
