@@ -2,7 +2,7 @@
 
 ## Name: GIRIJA SANKAR MAHAPATRA
 ## Registration Number: 25BMR10012
-## Branch: CSE (Specialization in AI-ML)  
+## Branch: Mechanical Engineering (Specialization in AI & Robotics)
 ## Year: 1st Year  
 
 ## Course Code: CSE0001  
