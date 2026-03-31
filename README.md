@@ -1,8 +1,8 @@
 # Digital Literacy Portfolio
 
-**Name:** Swarit Singh Chauhan  
-**Registration Number:** 25BAI10982  
-**Branch:** CSE(SPECIALIZATION IN AI-ML
+**Name:** Girija Sankar Mahapatra  
+**Registration Number:** 25bmr10012  
+**Branch:** Mechanical Engineering (Specilization in Ai and Robotics)
 **Year:** 1st Year  
 
 ## Project Overview
